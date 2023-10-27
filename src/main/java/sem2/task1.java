@@ -39,6 +39,6 @@ public class task1 {
             if (i == (arr.length - 1)) System.out.print(arr[i]);
             else System.out.print(arr[i] + ", ");
         }
-        System.out.printf("], минимальный элемент - %d, максимальный элемент - %d.", result[0], result[1]);
+        System.out.printf("], минимальный элемент - %d, максимальный элемент - %d. \n", result[0], result[1]);
     }
 }
